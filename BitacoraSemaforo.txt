@@ -1,213 +1,213 @@
 Iniciando programa
 Creando threads
-Iniciando Threads 31508
+Iniciando Threads 2542
 Esperando threads
-31508 - Semaforo abierto con exito
+2542 - Semaforo abierto con exito
 Iniciando iteracion1
-31508 - (!) Recurso tomado
-31508 - Buenos dias! Recurso usado
-Iniciando Threads 31507
+2542 - (!) Recurso tomado
+2542 - Buenos dias! Recurso usado
+Iniciando Threads 2544
 Esperando threads
-31507 - Semaforo abierto con exito
+2544 - Semaforo abierto con exito
 Iniciando iteracion1
-31507 - (!) Recurso tomado
-31507 - Buenos dias! Recurso usado
-Iniciando Threads 31510
+2544 - (!) Recurso tomado
+2544 - Buenos dias! Recurso usado
+Iniciando Threads 2545
 Esperando threads
-31510 - Semaforo abierto con exito
+2545 - Semaforo abierto con exito
 Iniciando iteracion1
-31510 - (!) Recurso tomado
-31510 - Buenos dias! Recurso usado
-Iniciando Threads 31511
+2545 - (!) Recurso tomado
+Iniciando Threads 2546
+Iniciando Threads 2543
 Esperando threads
-31511 - Semaforo abierto con exito
-Iniciando iteracion1
-31511 - (!) Recurso tomado
-Iniciando Threads 31509
+2545 - Buenos dias! Recurso usado
+2546 - Semaforo abierto con exito
 Esperando threads
-31511 - Buenos dias! Recurso usado
-31509 - Semaforo abierto con exito
 Iniciando iteracion1
-31509 - (!) Recurso tomado
-31509 - Buenos dias! Recurso usado
-31510 - Recurso devuelto :)
-Iniciando iteracion2
-31510 - (!) Recurso tomado
-31510 - Buenos dias! Recurso usado
-31507 - Recurso devuelto :)
-Iniciando iteracion2
-31508 - Recurso devuelto :)
-31507 - (!) Recurso tomado
-Iniciando iteracion2
-31507 - Buenos dias! Recurso usado
-31511 - Recurso devuelto :)
-Iniciando iteracion2
-31511 - (!) Recurso tomado
-31509 - Recurso devuelto :)
-Iniciando iteracion2
-Iniciando Threads 31514
+2543 - Semaforo abierto con exito
+Iniciando iteracion1
+2546 - (!) Recurso tomado
+2546 - Buenos dias! Recurso usado
+Iniciando Threads 2549
 Esperando threads
-31514 - Semaforo abierto con exito
+2549 - Semaforo abierto con exito
 Iniciando iteracion1
-Iniciando Threads 31516
+2549 - (!) Recurso tomado
+2549 - Buenos dias! Recurso usado
+Iniciando Threads 2550
 Esperando threads
-31516 - Semaforo abierto con exito
+2550 - Semaforo abierto con exito
 Iniciando iteracion1
-31511 - Buenos dias! Recurso usado
-Iniciando Threads 31513
+2550 - (!) Recurso tomado
+Iniciando Threads 2547
+2550 - Buenos dias! Recurso usado
+2542 - Recurso devuelto :)
+Iniciando iteracion2
+2543 - (!) Recurso tomado
+2543 - Buenos dias! Recurso usado
+2542 - (!) Recurso tomado
+2542 - Buenos dias! Recurso usado
+2549 - Recurso devuelto :)
+Iniciando iteracion2
+2549 - (!) Recurso tomado
+2549 - Buenos dias! Recurso usado
 Esperando threads
-31513 - Semaforo abierto con exito
+2547 - Semaforo abierto con exito
 Iniciando iteracion1
-31513 - (!) Recurso tomado
-31513 - Buenos dias! Recurso usado
-31510 - Recurso devuelto :)
-Iniciando iteracion3
-31510 - (!) Recurso tomado
-31510 - Buenos dias! Recurso usado
-Iniciando Threads 31512
+2547 - (!) Recurso tomado
+2547 - Buenos dias! Recurso usado
+2550 - Recurso devuelto :)
+Iniciando iteracion2
+2550 - (!) Recurso tomado
+2550 - Buenos dias! Recurso usado
+Iniciando Threads 2548
 Esperando threads
-31512 - Semaforo abierto con exito
+2548 - Semaforo abierto con exito
 Iniciando iteracion1
-31512 - (!) Recurso tomado
-31512 - Buenos dias! Recurso usado
-31507 - Recurso devuelto :)
+2548 - (!) Recurso tomado
+2548 - Buenos dias! Recurso usado
+2546 - Recurso devuelto :)
+Iniciando iteracion2
+2546 - (!) Recurso tomado
+2546 - Buenos dias! Recurso usado
+2542 - Recurso devuelto :)
 Iniciando iteracion3
-31507 - (!) Recurso tomado
-31507 - Buenos dias! Recurso usado
-31509 - (!) Recurso tomado
-31509 - Buenos dias! Recurso usado
-31514 - (!) Recurso tomado
-31514 - Buenos dias! Recurso usado
-31516 - (!) Recurso tomado
-31516 - Buenos dias! Recurso usado
-31512 - Recurso devuelto :)
+2542 - (!) Recurso tomado
+2542 - Buenos dias! Recurso usado
+2543 - Recurso devuelto :)
 Iniciando iteracion2
-31512 - (!) Recurso tomado
-31512 - Buenos dias! Recurso usado
-31510 - Recurso devuelto :)
-31508 - (!) Recurso tomado
-31507 - Recurso devuelto :)
-Iniciando iteracion4
-31508 - Buenos dias! Recurso usado
-31511 - Recurso devuelto :)
+2543 - (!) Recurso tomado
+2543 - Buenos dias! Recurso usado
+2549 - Recurso devuelto :)
 Iniciando iteracion3
-31511 - (!) Recurso tomado
-31511 - Buenos dias! Recurso usado
-31507 - (!) Recurso tomado
-31507 - Buenos dias! Recurso usado
-31513 - Recurso devuelto :)
-Iniciando iteracion2
-31513 - (!) Recurso tomado
-31513 - Buenos dias! Recurso usado
-Iniciando iteracion4
-31510 - (!) Recurso tomado
-31510 - Buenos dias! Recurso usado
-31509 - Recurso devuelto :)
-Iniciando iteracion3
-31509 - (!) Recurso tomado
-31509 - Buenos dias! Recurso usado
-31514 - Recurso devuelto :)
-Iniciando iteracion2
-31514 - (!) Recurso tomado
-31514 - Buenos dias! Recurso usado
-31516 - Recurso devuelto :)
-Iniciando iteracion2
-31516 - (!) Recurso tomado
-31516 - Buenos dias! Recurso usado
-Iniciando Threads 31515
+2549 - (!) Recurso tomado
+2549 - Buenos dias! Recurso usado
+Iniciando Threads 2551
 Esperando threads
-31515 - Semaforo abierto con exito
+2551 - Semaforo abierto con exito
 Iniciando iteracion1
-31515 - (!) Recurso tomado
-31515 - Buenos dias! Recurso usado
-31508 - Recurso devuelto :)
+2551 - (!) Recurso tomado
+2551 - Buenos dias! Recurso usado
+2543 - Recurso devuelto :)
 Iniciando iteracion3
-31508 - (!) Recurso tomado
-31508 - Buenos dias! Recurso usado
-31511 - Recurso devuelto :)
-Iniciando iteracion4
-31511 - (!) Recurso tomado
-31511 - Buenos dias! Recurso usado
-31507 - Recurso devuelto :)
-31507 - Semaforo muerto
-Terminando thread 31507
-31513 - Recurso devuelto :)
-Iniciando iteracion3
-31513 - (!) Recurso tomado
-31513 - Buenos dias! Recurso usado
-31512 - Recurso devuelto :)
-Iniciando iteracion3
-31512 - (!) Recurso tomado
-31512 - Buenos dias! Recurso usado
-31508 - Recurso devuelto :)
-Iniciando iteracion4
-31508 - (!) Recurso tomado
-31508 - Buenos dias! Recurso usado
-31512 - Recurso devuelto :)
-Iniciando iteracion4
-31512 - (!) Recurso tomado
-31512 - Buenos dias! Recurso usado
-31511 - Recurso devuelto :)
-31511 - Semaforo muerto
-Terminando thread 31511
-31510 - Recurso devuelto :)
-31510 - Semaforo muerto
-Terminando thread 31510
-31512 - Recurso devuelto :)
-31512 - Semaforo muerto
-Terminando thread 31512
-31509 - Recurso devuelto :)
-Iniciando iteracion4
-31509 - (!) Recurso tomado
-31509 - Buenos dias! Recurso usado
-31514 - Recurso devuelto :)
-Iniciando iteracion3
-31514 - (!) Recurso tomado
-31514 - Buenos dias! Recurso usado
-31516 - Recurso devuelto :)
-Iniciando iteracion3
-31516 - (!) Recurso tomado
-31516 - Buenos dias! Recurso usado
-31515 - Recurso devuelto :)
+2543 - (!) Recurso tomado
+2543 - Buenos dias! Recurso usado
+2548 - Recurso devuelto :)
 Iniciando iteracion2
-31515 - (!) Recurso tomado
-31515 - Buenos dias! Recurso usado
-31509 - Recurso devuelto :)
-31509 - Semaforo muerto
-Terminando thread 31509
-31508 - Recurso devuelto :)
-31508 - Semaforo muerto
-Terminando thread 31508
-31513 - Recurso devuelto :)
+2548 - (!) Recurso tomado
+2542 - Recurso devuelto :)
+2548 - Buenos dias! Recurso usado
 Iniciando iteracion4
-31513 - (!) Recurso tomado
-31513 - Buenos dias! Recurso usado
-31514 - Recurso devuelto :)
+2542 - (!) Recurso tomado
+2542 - Buenos dias! Recurso usado
+2549 - Recurso devuelto :)
 Iniciando iteracion4
-31514 - (!) Recurso tomado
-31514 - Buenos dias! Recurso usado
-31516 - Recurso devuelto :)
-Iniciando iteracion4
-31516 - (!) Recurso tomado
-31516 - Buenos dias! Recurso usado
-31515 - Recurso devuelto :)
+2549 - (!) Recurso tomado
+2549 - Buenos dias! Recurso usado
+2547 - Recurso devuelto :)
+Iniciando iteracion2
+2547 - (!) Recurso tomado
+2547 - Buenos dias! Recurso usado
+2546 - Recurso devuelto :)
 Iniciando iteracion3
-31515 - (!) Recurso tomado
-31515 - Buenos dias! Recurso usado
-31513 - Recurso devuelto :)
-31513 - Semaforo muerto
-Terminando thread 31513
-31516 - Recurso devuelto :)
-31516 - Semaforo muerto
-Terminando thread 31516
-31515 - Recurso devuelto :)
+2546 - (!) Recurso tomado
+2546 - Buenos dias! Recurso usado
+2545 - Recurso devuelto :)
+Iniciando iteracion2
+2545 - (!) Recurso tomado
+2545 - Buenos dias! Recurso usado
+2544 - Recurso devuelto :)
+Iniciando iteracion2
+2544 - (!) Recurso tomado
+2544 - Buenos dias! Recurso usado
+2550 - Recurso devuelto :)
+Iniciando iteracion3
+2550 - (!) Recurso tomado
+2550 - Buenos dias! Recurso usado
+2551 - Recurso devuelto :)
+Iniciando iteracion2
+2551 - (!) Recurso tomado
+2551 - Buenos dias! Recurso usado
+2544 - Recurso devuelto :)
+Iniciando iteracion3
+2544 - (!) Recurso tomado
+2544 - Buenos dias! Recurso usado
+2542 - Recurso devuelto :)
+2542 - Semaforo muerto
+Terminando thread 2542
+2545 - Recurso devuelto :)
+Iniciando iteracion3
+2545 - (!) Recurso tomado
+2545 - Buenos dias! Recurso usado
+2548 - Recurso devuelto :)
+2550 - Recurso devuelto :)
+Iniciando iteracion3
 Iniciando iteracion4
-31515 - (!) Recurso tomado
-31515 - Buenos dias! Recurso usado
-31515 - Recurso devuelto :)
-31515 - Semaforo muerto
-Terminando thread 31515
-31514 - Recurso devuelto :)
-31514 - Semaforo muerto
-Terminando thread 31514
+2548 - (!) Recurso tomado
+2548 - Buenos dias! Recurso usado
+2550 - (!) Recurso tomado
+2550 - Buenos dias! Recurso usado
+2547 - Recurso devuelto :)
+Iniciando iteracion3
+2547 - (!) Recurso tomado
+2547 - Buenos dias! Recurso usado
+2546 - Recurso devuelto :)
+Iniciando iteracion4
+2546 - (!) Recurso tomado
+2546 - Buenos dias! Recurso usado
+2547 - Recurso devuelto :)
+Iniciando iteracion4
+2547 - (!) Recurso tomado
+2547 - Buenos dias! Recurso usado
+2548 - Recurso devuelto :)
+Iniciando iteracion4
+2548 - (!) Recurso tomado
+2548 - Buenos dias! Recurso usado
+2546 - Recurso devuelto :)
+2544 - Recurso devuelto :)
+2546 - Semaforo muerto
+Iniciando iteracion4
+Terminando thread 2546
+2544 - (!) Recurso tomado
+2544 - Buenos dias! Recurso usado
+2551 - Recurso devuelto :)
+Iniciando iteracion3
+2551 - (!) Recurso tomado
+2551 - Buenos dias! Recurso usado
+2545 - Recurso devuelto :)
+Iniciando iteracion4
+2545 - (!) Recurso tomado
+2545 - Buenos dias! Recurso usado
+2548 - Recurso devuelto :)
+2548 - Semaforo muerto
+Terminando thread 2548
+2544 - Recurso devuelto :)
+2544 - Semaforo muerto
+Terminando thread 2544
+2547 - Recurso devuelto :)
+2547 - Semaforo muerto
+Terminando thread 2547
+2543 - Recurso devuelto :)
+Iniciando iteracion4
+2543 - (!) Recurso tomado
+2543 - Buenos dias! Recurso usado
+2551 - Recurso devuelto :)
+Iniciando iteracion4
+2551 - (!) Recurso tomado
+2551 - Buenos dias! Recurso usado
+2545 - Recurso devuelto :)
+2545 - Semaforo muerto
+Terminando thread 2545
+2549 - Recurso devuelto :)
+2549 - Semaforo muerto
+Terminando thread 2549
+2550 - Recurso devuelto :)
+2550 - Semaforo muerto
+Terminando thread 2550
+2543 - Recurso devuelto :)
+2543 - Semaforo muerto
+Terminando thread 2543
+2551 - Recurso devuelto :)
+2551 - Semaforo muerto
+Terminando thread 2551
 Fertig!

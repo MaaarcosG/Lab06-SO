@@ -59,8 +59,6 @@ int main(void){
 		pthread_join(thread[j], NULL);
 	}
 
-	//printf("valor del counter %d\n", recurse);
-
 	/*Se terminara el pograma y se cerrara el archivo*/
 	fprintf(fichero, "Fertig!\n");
 	fclose(fichero);
@@ -81,10 +79,9 @@ void *recurso(void* data){
 		recurse +=1;
 		fprintf(((struct args*)data)->info, "%ld - (!) Recurso tomado\n", syscall(SYS_gettid));
 		fprintf(((struct args*)data)->info, "%ld - Buenos dias! Recurso usado\n", syscall(SYS_gettid));
-		/*Incrementamos unidad del semaforo*/
+		/*desbloquea unidad del semaforo*/
 		sem_post(&sem);
-		/*Del recurso sumado, le quitamos uno para simular la devolucion del recurso*/
-		recurse -=1;
+		/*Simular la devolucion del recurso*/
 		sleep(0.7);
 		fprintf(((struct args*)data)->info, "%ld - Recurso devuelto :)\n", syscall(SYS_gettid));
 		
