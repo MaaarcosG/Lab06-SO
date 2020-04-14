@@ -73,15 +73,12 @@ int main(void){
 /*return 0 if sufficient resource available,  */
 /*otherwise return -1*/
 int decrease_count(int count, void *data){
-	if(available_resources < count){
-		/*bloquea y permite que otro proceso entre al monitor*/
-		fprintf(((struct args*)data)->info, "NUAY! Recursos actuales: %d\n", available_resources);
-		pthread_cond_wait(&condition, &mutex);
-	}
 
 	fprintf(((struct args*)data)->info, "Recursos suficientes disponibles, consumiendo...\n");
 	available_resources -= count;
+	/*Simulara el cambio de mutex*/
 	sleep(1);
+	
 	fprintf(((struct args*)data)->info, "Terminando decrease_count\n");
 	pthread_mutex_unlock(&mutex);
 }

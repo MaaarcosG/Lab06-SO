@@ -37,7 +37,7 @@ int main(void){
 	struct args *archivo = (struct args *)malloc(sizeof(struct args));
 	archivo->info = fichero;
 
-	printf("[INFO] Generando archivo BitacoraMonitores...\n"); 
+	printf("[INFO] Generando archivo BitacoraSemaforo...\n"); 
 
 	/*Encabezado de archivo*/
 	fprintf(fichero, "Iniciando programa\n");
